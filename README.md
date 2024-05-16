@@ -24,7 +24,7 @@ Eagle
 
 # Theory
 
-A touch sensor is a type of device that captures and records physical touch or embrace on a device and/or object. 
+      A touch sensor is a type of device that captures and records physical touch or embrace on a device and/or object. 
 It enables a device or object to detect touch or near proximity, typically by a human user or operator. Touch sensing input devices
 offer numerous possibilities for novel interaction techniques and it reliably replaces mechanical buttons and switches to eliminate 
 mechanical wear and tear. These can be configured into simple sliders, rotary wheels, or touch pads for intuitive user interfaces. 
@@ -34,7 +34,7 @@ tactile sensors and are sensitive to touch, force or pressure. It can be impleme
 
 ### Working 
 
-A touch sensor circuit is an electrical component that detects the presence or proximity of a conductive object, such as a human finger. 
+      A touch sensor circuit is an electrical component that detects the presence or proximity of a conductive object, such as a human finger. 
 It operates on the principle of capacitance, where the sensor electrode forms a capacitor with the object. When the object touches or 
 approaches the electrode, the capacitance changes, which is detected by a measurement circuit. The circuit converts this change into a 
 digital signal that can be processed by a microcontroller or computer. The touch sensor circuit is a simple, reliable, and cost-effective 
